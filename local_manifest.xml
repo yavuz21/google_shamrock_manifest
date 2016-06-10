@@ -1,5 +1,5 @@
 <manifest>
-<project path="device/infinix/d5110_infinix" name="d5110-devs/android_device_d5110_infinix" remote="github" revision="cm-13.0"/>
+<project path="device/infinix/d5110_infinix" name="d5110-devs/android_device_infinix_d5110" remote="github" revision="cm-13.0"/>
 
 <project path="vendor/infinix/d5110_infinix" name="d5110-devs/android_vendor_infinix_d5110" remote="github" revision="cm-13.0"/>
 
