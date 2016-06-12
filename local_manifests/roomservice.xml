@@ -1,0 +1,4 @@
+<manifest>
+	<remove-project path="bootable/recovery-twrp" />
+	<remove-project path="external/busybox" />
+</manifest>
