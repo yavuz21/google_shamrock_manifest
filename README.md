@@ -1,4 +1,4 @@
-# d5110_infinix_manifest
+# google_shamrock_manifest
 
 
-### Local manifest for building CM13 for the Infinix Hot 2
+### Local manifest for building CM13 for the Android One Third Generation
