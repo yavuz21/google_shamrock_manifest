@@ -1,9 +1,9 @@
 <manifest>
-<project path="device/google/shamrock" name="TeamOne-Devs/android_device_google_shamrock" remote="github" revision="cm-13.0"/>
+<project path="device/google/shamrock" name="yavuz21/android_device_google_shamrock" remote="github" revision="master"/>
 
 <project path="device/qcom/common" name="cyanogenmod/android_device_qcom_common" remote="github" revision="cm-13.0"/>
 
-<project path="kernel/google/shamrock" name="TeamOne-Devs/android_kernel_google_lego" remote="github" revision="cm-13.0" />
+<project path="kernel/google/shamrock" name="https://github.com/yavuz21/android_kernel_google_lego" remote="github" revision="cm-13.0" />
 
-<project path="vendor/google" name="TeamOne-Devs/proprietary_vendor_google" remote="github" revision="cm-13.0"/>
+<project path="vendor/google/shamrock" name="yavuz21/proprietary_vendor_google_shamrock" remote="github" revision="master"/>
 </manifest>
